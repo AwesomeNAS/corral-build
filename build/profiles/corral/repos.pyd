@@ -195,7 +195,7 @@ repos += {
     "name": "py-ipfs-api",
     "path": "py-ipfs-api",
     "url": "https://github.com/awesomenas/py-ipfs-api",
-    "branch": "9fd99e8"
+    "branch": "corral-build"
 }
 
 repos += {
